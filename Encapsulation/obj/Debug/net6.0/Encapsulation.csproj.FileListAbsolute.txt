@@ -1,0 +1,15 @@
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+C:\Pemograman Sem 2\Encapsulation\Encapsulation\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
